@@ -13,6 +13,7 @@
 
 [![website](https://api.iconify.design/simple-icons/linktree.svg?color=white&height=26)](https://linktr.ee/joshhoward1233/#gh-light-mode-only)
 [![website](https://api.iconify.design/simple-icons/linktree.svg?color=white&height=26)](https://linktr.ee/joshhoward1233/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages Resources and Tools:
 
