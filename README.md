@@ -11,12 +11,6 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/joshhoward1233/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joshhoward1233/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/joshhoward1233/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/joshhoward1233/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](https://api.iconify.design/simple-icons/linktree.svg?color=white&height=26)](https://linktr.ee/joshhoward1233/#gh-light-mode-only)
 [![website](https://api.iconify.design/simple-icons/linktree.svg?color=white&height=26)](https://linktr.ee/joshhoward1233/#gh-dark-mode-only)
 
