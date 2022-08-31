@@ -1,7 +1,7 @@
 
 # Hi, I'm Josh Howard! 👋
 
-### I'm an aspiring front-end developer and a passionate learner!!
+## I'm an aspiring front-end developer and a passionate learner!!
 
 - 👩‍💻 I’m working on some mini front-end projects for newbies to practice my skills
 - 🌱 I’m currently learning JavaScript
