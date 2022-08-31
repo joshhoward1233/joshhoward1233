@@ -12,6 +12,7 @@
 ### Connect with me:
 
 <a href="https://linktr.ee/joshhoward1233"><img align="left" alt="Linktree" width="26px" src="https://api.iconify.design/simple-icons/linktree.svg?color=white" style="padding-right:10px;"></a>
+&nbsp;&nbsp;
 
 ### Languages Resources and Tools:
 
