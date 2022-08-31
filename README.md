@@ -11,10 +11,7 @@
 
 ### Connect with me:
 
-[![website](https://api.iconify.design/simple-icons/linktree.svg?color=white&width=26&height=26)](https://linktr.ee/joshhoward1233/#gh-light-mode-only)
-[![website](https://api.iconify.design/simple-icons/linktree.svg?color=white&width=26&height=26)](https://linktr.ee/joshhoward1233/#gh-dark-mode-only)
-&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/> <img align="left" alt="Linktree" width="26px" src="https://api.iconify.design/simple-icons/linktree.svg?color=white" style="padding-right:10px;"> </a>
+<a href="https://www.freecodecamp.org/><img align="left" alt="Linktree" width="26px" src="https://api.iconify.design/simple-icons/linktree.svg?color=white" style="padding-right:10px;"></a>
 
 ### Languages Resources and Tools:
 
