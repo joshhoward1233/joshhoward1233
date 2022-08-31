@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with fellow developers
 - 🥅 2022 Goals: To learn more and more about tech and grow as a front-end developer
 - ⚡ Fun fact: I love watch/play sports, read books and play video games
-##
+
 ### Connect with me:
 
 <a href="https://linktr.ee/joshhoward1233" target="_blank" rel="noopener noreferrer"><img align="left" alt="Linktree" width="26px" src="https://api.iconify.design/simple-icons/linktree.svg?color=green" style="padding-right:10px;"></a>
