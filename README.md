@@ -1,6 +1,6 @@
 
 # Hi, I'm Josh Howard! 👋
-<img align="left" alt="CodeWars" width="26px" src="https://www.codewars.com/users/joshhoward1233/badges/large" style="padding-right:10px;" />
+<img align="left" alt="CodeWars" width="100px" src="https://www.codewars.com/users/joshhoward1233/badges/large" style="padding-right:10px;" />
 
 ### I'm an aspiring front-end developer and a passionate learner!!
 
