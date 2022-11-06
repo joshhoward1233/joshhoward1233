@@ -1,6 +1,5 @@
 
 # Hi, I'm Josh Howard! 👋
-<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/joshhoward1233/badges/large" style="padding-right:10px;" />
 
 ### I'm an aspiring front-end developer and a passionate learner!!
 
@@ -28,3 +27,5 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/akar-icons/github-fill.svg?color=white" style="padding-right:10px;" />
+<br><br>
+<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/joshhoward1233/badges/large" style="padding-right:10px;" />
