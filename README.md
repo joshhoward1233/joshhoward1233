@@ -8,7 +8,6 @@
 - 🥅 2022 Goals: To learn more and more about tech and grow as a front-end developer
 - ⚡ Fun fact: I love watch/play sports, read books and play video games
 <br />
-<br />
 
 ### Connect with me:
 
