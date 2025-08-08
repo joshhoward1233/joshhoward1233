@@ -36,13 +36,13 @@
 <br />
 <br />
 
-<!--- CodeWars --->
+### Codewars:
 
 <a href="https://www.codewars.com/users/joshhoward1233" target="_blank" rel="noopener noreferrer"><img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/joshhoward1233/badges/large" style="padding-right:10px;" /></a>
 <br />
 <br />
 
-<!--- ReadMe Stats --->
+### GitHub Stats:
 
 <picture>
   <source
