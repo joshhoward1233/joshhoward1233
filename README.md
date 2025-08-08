@@ -29,3 +29,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/akar-icons/github-fill.svg?color=white" style="padding-right:10px;" />
 <br><br>
 <a href="https://www.codewars.com/users/joshhoward1233" target="_blank" rel="noopener noreferrer"><img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/joshhoward1233/badges/large" style="padding-right:10px;" /></a>
+<!--- <br><br>
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=joshhoward1233&show_icons=true&theme=dracula) --->
