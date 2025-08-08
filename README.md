@@ -29,5 +29,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/akar-icons/github-fill.svg?color=white" style="padding-right:10px;" />
 <br><br>
 <a href="https://www.codewars.com/users/joshhoward1233" target="_blank" rel="noopener noreferrer"><img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/joshhoward1233/badges/large" style="padding-right:10px;" /></a>
-<!--- <br><br>
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=joshhoward1233&show_icons=true&theme=dracula) --->
+<br><br>
+[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=joshhoward1233&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/joshhoward1233/github-readme-stats)
